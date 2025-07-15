@@ -21,7 +21,7 @@ bot.start((ctx) => {
           {
             text: "Web Appni ochish",
             web_app: {
-              url: "https://tg-shop-qey7eznla-subhoniddins-projects.vercel.app/",
+              url: "https://tg-shop-uz.vercel.app/",
             },
           },
         ],
@@ -41,7 +41,7 @@ bot.on("callback_query", async (ctx) => {
             {
               text: "Web Appni ochish",
               web_app: {
-                url: "https://tg-shop-qey7eznla-subhoniddins-projects.vercel.app/",
+                url: "https://tg-shop-uz.vercel.app/",
               },
             },
           ],
